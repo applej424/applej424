@@ -3,3 +3,4 @@ Kim hee joong's github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge
 
 [![Gmail Badge](https://img.shields.io/badge/GMail-AA00FF?style=flat&logo=Gmail&logoColor=white&logoWidth=20&link=mailto:applej424@naver.com)](mailto:applej424@naver.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-B7178C?style=flat&logo=Youtube&link=https://www.youtube.com/channel/UC2GvMG4GuDOjA1TKp9yPXPA/featured)](https://www.youtube.com/channel/UC2GvMG4GuDOjA1TKp9yPXPA/featured)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-2E3340?style=flat&logo=Instagram&link=https://www.instagram.com/applej42/?hl=ko)](https://www.instagram.com/applej42/?hl=ko)
